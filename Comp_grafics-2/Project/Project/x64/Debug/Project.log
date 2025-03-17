@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Shader.cpp
+C:\Users\fedor\Downloads\Comp_grafics-main\Comp_grafics-2\Project\Project\Shader.cpp(51,42): warning C4101: e: неиспользованная локальная переменная
+  Создание кода...
+  Project.vcxproj -> C:\Users\fedor\Downloads\Comp_grafics-main\Comp_grafics-2\Project\x64\Debug\Project.exe
